@@ -51,7 +51,7 @@ btnSearch.addEventListener('click', function (e) {
         return;
       }
 
-      let html = 'Position: ' + data.position + '<br>';
+      let html = '<h2>Position: ' + data.position + '</h2><br>';
       html += 'ASIN: ' + data.asin + '<br>';
       html += 'Page: ' + data.page + '<br>';
       html += 'Name: ' + data.name + '<br>';

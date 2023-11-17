@@ -6,6 +6,7 @@
 
 Code challenge for the application to a Full Stack Developer Internship
 at Carvalho Aleixo Inc.<br>
+This code is an extension from the repository https://github.com/jonatasrossetto/WebScraper
 
 Back-end Stack
 
